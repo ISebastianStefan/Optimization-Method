@@ -1,0 +1,12 @@
+Programarea liniară cu număr întreg mixt (MILP) implică probleme 
+în care doar unele dintre variabile, sunt constrânse să fie numere întregi, 
+în timp ce alte variabile sunt permise să fie non-întregi. Mixed-integer linear programming.
+
+Programarea liniară cu număr întreg mixt (MILP) este adesea utilizată pentru analiza și 
+optimizarea sistemului, deoarece prezintă o metodă flexibilă și puternică pentru 
+rezolvarea problemelor mari, complexe, cum ar fi cazul cu simbioză industrială și 
+integrarea proceselor.
+
+Programarea liniară (LP) maximizează (sau minimizează) o funcție obiectiv liniară 
+supusă uneia sau mai multor constrângeri. Programarea numărului întreg mixt adaugă 
+o condiție suplimentară în care cel puțin una dintre variabile poate lua doar valori întregi.
